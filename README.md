@@ -1,2 +1,2 @@
 # epam_git_lesson
-The lessons about git byepam
+The lessons about git by epam
