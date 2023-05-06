@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.header {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+
+    background-color: rgb(174, 222, 135);
+}
+.header__logo{
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(199, 59, 59);
+}
+.header__menu-list{
+    display: flex;
+    gap: 30px;
+}
+.header__menu-item{
+    
+    
+}
